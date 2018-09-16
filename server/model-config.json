@@ -12,5 +12,17 @@
       "../common/mixins",
       "./mixins"
     ]
+  },
+  "soap_oracleamlSoapBinding": {
+    "dataSource": null,
+    "public": true
+  },
+  "oracleaml": {
+    "dataSource": null,
+    "public": true
+  },
+  "oracleamlResponse": {
+    "dataSource": null,
+    "public": true
   }
 }
