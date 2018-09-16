@@ -1,1 +1,9 @@
-{}
+{
+  "bpProcessDemo": {
+    "url": "http://ec2-52-206-38-5.compute-1.amazonaws.com:8181/ws/oracleaml",
+    "name": "bpProcessDemo",
+    "wsdl": "http://ec2-52-206-38-5.compute-1.amazonaws.com:8181/ws/oracleaml?wsdl",
+    "remotingEnabled": true,
+    "connector": "soap"
+  }
+}
